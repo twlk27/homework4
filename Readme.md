@@ -4,4 +4,6 @@
 
 * [webkit-dwarf](https://github.com/dwarfJS/webkit-dwarf)
 
-### 测试用例之后补上，大家不要急着做，先看上面的代码
+### 要求
+
+> 该作业可不做，有实力的可以做，但记得8月底 homework3 要交作业哦
