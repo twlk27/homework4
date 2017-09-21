@@ -1,4 +1,4 @@
-const assert = require('assert')
+// const assert = require('assert')
 
 describe('require', () => {
   before(() => {
@@ -10,9 +10,9 @@ describe('require', () => {
   })
 
   it('可以异步require代码', function (done) {
-    require(['./base/mod/a'], function (mod) {
+    require(['./base/mod/a.js'], function (mod) {
       mod.should.equal('hello world')
-      done()
+      done() 
     })
   })
 
